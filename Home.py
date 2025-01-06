@@ -10,7 +10,7 @@ st.title(''':green[***Welcome to BookScape Explorer***]''')
 page_bg_img = """
 <style>
 [data-testid="stAppViewContainer"]{
-background-image: url("https://pixabay.com/get/g04dd5bea6482de26076a50dabb3c297b7ba29c30505e7bcc7c464fc8460e00fb59579e617d9a322c8b0fbb1dee26db50d54853bbc3a717dc58c9012876d2cf7f_1280.jpg");
+background-image: url("https://getwallpapers.com/wallpaper/full/1/b/a/166020.jpg");
 background-size: cover;
 }
 
